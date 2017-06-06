@@ -1,0 +1,38 @@
+body{
+	background-color: #CECEE6;
+	color: #8B7B6C;
+	font-family: 'Barrio', cursive;
+	font-size: 24pt;
+}
+.winter{
+	border-style:solid;
+	border-color: #1C9FB3;
+	border-width: 20px;
+	background-color: #64BDBB;
+	margin: 30px;
+	border-radius: 10px;
+}
+
+.Sprinting{
+	background-color:red;
+	height:100px;
+}
+/*blue box with content*/
+.Distance{
+ background-color:blue;
+	
+	border:solid;
+	
+}
+	
+.Field Events{
+ background-color:blue;
+	height:100px;
+
+	
+}
+
+
+
+
+
